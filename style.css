@@ -1,0 +1,58 @@
+/* input{
+    width:10px;
+
+}
+
+.col{
+    margin-left: 200px;
+} */
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+    background-color: azure;
+
+}
+
+.container{
+  margin: 0 15px;
+
+}
+
+.form-box{
+    background-color: rgb(179, 195, 173);
+     width:300px; 
+    /* margin-left:300px; */
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 6px;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Sign-up{
+    margin-left: 150px;
+    margin-top: -45px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+body{
+    background-color: rgb(62, 129, 129);
+}
+
+p{
+    margin-left: 150px;
+    margin-top: -15px;
+}
+
+
+#r-sign-up{
+    margin-left: 100px;
+}
+
